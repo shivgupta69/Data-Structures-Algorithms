@@ -1,5 +1,5 @@
 
-# MY Data Structures & Algorithms
+# MY Data Structures & Algorithms - Solutions
 
 A collection of my **Data Structures and Algorithms** practice and problem-solving solutions.
 
